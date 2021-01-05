@@ -1,0 +1,7 @@
+#include<stdio.h>
+
+/*Main Function*/
+void main()
+{
+    printf("Hello World");//print Hello World on Screen
+}
